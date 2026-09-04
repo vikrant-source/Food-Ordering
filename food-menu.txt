@@ -1,0 +1,3 @@
+Pizza - Rs. 250
+Burger - Rs. 150
+Pasta - Rs. 200
